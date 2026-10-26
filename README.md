@@ -1,12 +1,12 @@
 # Nexus 3S - Sistema de Gestión de Inventario y Ventas
 
-**Nexus 3S** es una aplicación de escritorio de código abierto, desarrollada a medida para la **Imprenta 3 Soles** (San Carlos, Maldonado). El sistema sustituye el control memorístico e informal en papel por una solución digital local, ágil y autónoma.
+**Nexus 3S** es una aplicación de escritorio de código abierto, desarrollada a medida para la **Imprenta 3 Soles**  El sistema sustituye el control memorístico e informal en papel por una solución digital local, ágil y autónoma.
 
 ---
 
 ## Problemática Resuelta
 En el diagnóstico operativo del comercio se detectaron tres dificultades principales:
-- **Demoras en mostrador:** Pérdida de 3 a 5 minutos por cliente al verificar físicamente las existencias en estanterías.
+- **Demoras en mostrador:** Pérdida de algunos  minutos por cliente al verificar físicamente las existencias en estanterías.
 - **Quiebres imprevistos de stock:** Artículos de alta rotación (papelería e insumos de oficina en general) agotados sin advertencia.
 - **Falta de trazabilidad financiera:** Registros contables manuales propensos a errores aritméticos y omisiones de transacciones.
 
