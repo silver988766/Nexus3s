@@ -41,6 +41,12 @@ En el diagnóstico operativo del comercio se detectaron tres dificultades princi
 
 
 
+## Documentación Académica
+El marco teórico, las matrices de requerimientos, la bitácora de debugging y las conclusiones se encuentran documentados en detalle en el proyecto.
+
+👉 **[Ver Cuaderno de Campo Completo (PDF)](Nexus3s%20cuaderno%20de%20campo.pdf)**
+
+
 
 
    
